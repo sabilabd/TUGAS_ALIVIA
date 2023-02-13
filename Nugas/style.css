@@ -1,7 +1,15 @@
-.indomie{
-    text-decoration: none;
+.indomie:link,.indomie:visited{
+    text-decoration:none;
     color:black;
+    border:transparent;
+    border-style:outset;
 }
-.tulisan{
-    padding-bottom:3px
+
+.indomie:hover,.indomie:active{
+    color:orange;
+    border-style:inset;
+    box-shadow: 7px 13px  14px gray;
+
 }
+
+
