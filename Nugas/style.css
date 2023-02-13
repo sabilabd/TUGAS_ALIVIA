@@ -9,7 +9,30 @@
     color:orange;
     border-style:inset;
     box-shadow: 7px 13px  14px gray;
+    
 
 }
+.card-title{
+    font-size: 16px;
+   
+    
+}
+.card-body{
+    text-align:center;
+    
+}
+.footer{
+    text-align:center;
+}
+footer{
+    background-color:gray;
+    color:white;
+    margin-top:3rem
+}
+.footer{
+    text-decoration: none;
+    color:white;
+}
+
 
 
